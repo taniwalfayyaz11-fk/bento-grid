@@ -1,0 +1,226 @@
+body {
+  background: #f6f5f4;
+}
+
+.hero {
+  margin: 100px;
+}
+
+.hero .post {
+  background: hsl(31, 66%, 93%);
+  width: 200px;
+  padding: 52px 32px;
+  font-family: sans-serif;
+  line-height: 1;
+  font-family: "Manrope", sans-serif;
+  height: 300px;
+  border-radius: 9px;
+}
+.post span {
+  color: hsl(256, 67%, 59%);
+  font-family: "DM Sans", sans-serif;
+  font-style: italic;
+  font-weight: 600;
+}
+.post img {
+  width: 190px;
+}
+
+.hero .ai {
+  background: hsl(39, 100%, 71%);
+  width: 200px;
+  padding: 1px 32px;
+  font-family: sans-serif;
+  line-height: 1;
+  font-family: "Manrope", sans-serif;
+  height: 370px;
+  border-radius: 9px;
+  font-size: 22px;
+  position: relative;
+  bottom: 90px;
+}
+.hero .ai img {
+  width: 170px;
+  position: relative;
+  bottom: -20px;
+}
+
+.hero .media {
+  background: hsl(256, 67%, 59%);
+  width: 350px;
+  padding: 19px 45px;
+  font-family: sans-serif;
+  line-height: 1;
+  font-family: "Manrope", sans-serif;
+  height: 230px;
+  border-radius: 9px;
+  font-size: 24px;
+}
+.hero .media img {
+  width: 150px;
+  margin-left: 100px;
+  position: relative;
+  top: -15px;
+}
+.hero .media p {
+  font-size: 17px;
+  color: hsl(254, 88%, 90%);
+  position: relative;
+  right: -75px;
+  top: -25px;
+}
+.hero .media h2 {
+  color: white;
+  font-size: 45px;
+  font-weight: 500;
+}
+.hero .media strong {
+  color: hsl(39, 100%, 71%);
+}
+.hero .media span {
+  font-family: "DM Sans", sans-serif;
+  font-style: italic;
+  font-weight: 500;
+}
+.hero .media .move {
+  position: relative;
+  right: -26px;
+}
+
+.hero .flc {
+  display: flex;
+  gap: 30px;
+}
+
+.hero .first {
+  background: white;
+  width: 170px;
+  padding: 22px 32px;
+  font-family: sans-serif;
+  line-height: 1;
+  font-family: "Manrope", sans-serif;
+  height: 177px;
+  border-radius: 9px;
+}
+.hero .first img {
+  width: 201px;
+}
+.hero .first h2 {
+  font-size: 25px;
+}
+
+.hero .second {
+  background: white;
+  width: 170px;
+  padding: 2px 32px;
+  font-family: sans-serif;
+  line-height: 1;
+  font-family: "Manrope", sans-serif;
+  height: 230px;
+  border-radius: 9px;
+  position: relative;
+  bottom: -35px;
+}
+.hero .second img {
+  width: 151px;
+  position: relative;
+  top: -25px;
+}
+.hero .second h2 {
+  font-size: 50px;
+  position: relative;
+  top: -20px;
+}
+.hero .second h3 {
+  width: 400px;
+  font-size: 16px;
+  color: #555;
+  position: relative;
+  top: -40px;
+}
+.hero .flex {
+  display: flex;
+  gap: 30px;
+}
+.hero .twocards {
+  position: relative;
+  top: -210px;
+}
+
+.hero .schedule {
+  background: hsl(39, 100%, 71%);
+  width: 170px;
+  padding: 22px 22px;
+  font-family: sans-serif;
+  line-height: 1;
+  font-family: "Manrope", sans-serif;
+  height: 177px;
+  border-radius: 9px;
+}
+
+.hero .schedule img {
+  width: 170px;
+  position: relative;
+  top: -16px;
+}
+.hero .ftf {
+  display: flex;
+  gap: 20px;
+}
+
+.grow {
+  background: hsl(256, 67%, 59%);
+  padding: 12px 20px;
+  position: relative;
+  bottom: -40px;
+  height: 200px;
+  border-radius: 13px;
+  width: 450px;
+}
+.grow h2 {
+  font-size: 31px;
+  font-family: sans-serif;
+  color: white;
+  position: relative;
+  bottom: -15px;
+  left: -15px;
+}
+.grow img {
+  width: 180px;
+  height: 180px;
+  position: relative;
+  bottom: -10px;
+}
+.hero .smae {
+  display: flex;
+  gap: 20px;
+}
+
+.optimize {
+  background: hsl(254, 88%, 90%);
+  padding: 2px 15px;
+  border-radius: 12px;
+  position: relative;
+  right: -20px;
+}
+.optimize img {
+  width: 220px;
+  height: 260px;
+  position: relative;
+  right: -20px;
+}
+.optimize h2 {
+  font-size: 31px;
+  font-family: sans-serif;
+  position: relative;
+  bottom: -15px;
+  right: -8px;
+}
+.optimize h3 {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 100;
+  position: relative;
+  right: -10px;
+  letter-spacing: 0.5px;
+}
